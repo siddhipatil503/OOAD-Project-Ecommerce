@@ -3,6 +3,8 @@ We have created a Java based e-commerce website with which enables the user to:
 
 ● Maintain an account- a user can use this to place order, an admin account can add new products and view order details.
 ● Browse through products.
+![Screenshot (434)](https://user-images.githubusercontent.com/56549662/165677349-e3dcf947-7022-4920-9e57-80689652ddd4.png)
+
 ● View product details.
 ● Buy products.
 ● Add or delete products from the cart.
