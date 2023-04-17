@@ -1,6 +1,6 @@
 # OOAD-Project-Ecommerce
 
-We have created a Java based e-commerce website with which enables the user to:
+We have created a Java based e-commerce website which enables the user to:
 
 ● Maintain an account- a user can use this to place order, an admin account can add new products and view order details.
 
